@@ -20,6 +20,7 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
 ## 2. Requisitos previos
 * Comprender el flujo de comunicación de la pasarela. [Información Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/guide/start.html)
 * Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
+* Tener
 * Para este proyecto utilizamos la herramienta Android Studio.
 > [!NOTE]
 > Tener en cuenta que, para que el desarrollo de tu proyecto, eres libre de emplear tus herramientas preferidas.
@@ -28,7 +29,7 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
 
 ### Clonar el proyecto:
   ```sh
-  git clone [https://github.com/izipay-pe/Sdk-PaymentForm-Java-Android.git]
+  git clone [https://github.com/izipay-pe/Sdk-PaymentForm-Kotlin.git]
   ```
 ### Ejecutar proyecto
 Ejecutar el proyecto a través de Android Studio mediante el botón `Run`, debe tener configurado un `Virtual Device` para ejecutar la demo.
@@ -41,7 +42,7 @@ Ejecutar el proyecto a través de Android Studio mediante el botón `Run`, debe 
 
 **Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
-* Editar en `java/com.lyra.sdk.sample.kotlin` :
+* Editar en `java/com.lyra.sdk.sample.kotlin/Config.kt` :
 <p align="center">
   <img src="https://i.postimg.cc/G27k95N9/Sdk-Credentials.png" alt="Credentials"/>
 </p>
