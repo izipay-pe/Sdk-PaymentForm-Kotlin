@@ -70,8 +70,7 @@ Los datos transmitidos en la IPN se reciben y analizan mediante un script que el
 * Vea el ejemplo de la respuesta IPN con PHP. [Aquí](https://github.com/izipay-pe/Server-IPN-Php)
 
 ## 7. Personalización
-Si deseas aplicar cambios específicos en la apariencia de la pasarela de pago, puedes lograrlo mediante las opciones de personalización del SDK. En este enlace [Personalización - SDK](https://secure.micuentaweb.pe/doc/es-PE/mobp/integration_guide/android/) podrá encontrar la documentación para guiarlo en la personalización en la sección `Personalizar el SDK`
-.
+Si deseas aplicar cambios específicos en la apariencia de la pasarela de pago, puedes lograrlo mediante las opciones de personalización del SDK. En este enlace [Personalización - SDK](https://secure.micuentaweb.pe/doc/es-PE/mobp/integration_guide/android/) podrá encontrar la documentación para guiarlo en la personalización en la sección `Personalizar el SDK`.
 
 ## 8. Consideraciones
 Para obtener más información, echa un vistazo a:
